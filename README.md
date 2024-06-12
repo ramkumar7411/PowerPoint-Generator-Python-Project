@@ -265,17 +265,7 @@ After registering, the API key is automatically generated for you.
 ## Community Discussions 🗣️
 Have a question, idea, or want to contribute? Join us in [Discussions](https://github.com/otahina/PowerPoint-Generator-Python-Project/discussions)!
 
-## Contributors ✨
 
-<img src="https://github.com/otahina.png" width="50" height="50" alt="description">
-<a href="https://github.com/otahina">Ota Hina</a>
-<img src="https://github.com/gaganmanku96.png" width="50" height="50" alt="description">
-<a href="https://github.com/gaganmanku96">Gagandeep Singh</a>
-
-
-## License 📄
-
-This project is licensed under the terms of the MIT license.
 
 
 
