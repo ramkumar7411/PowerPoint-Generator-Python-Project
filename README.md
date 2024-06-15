@@ -10,6 +10,7 @@ This project is ripe for growth and eager for your contributions. Let's enhance 
 
 ## Demo Highlights 🎬
 
+
 https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/82d98c7a-0244-4fed-8f6b-f6c994fd69e3
 
 ## Table of Contents 📋
